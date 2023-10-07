@@ -1,0 +1,1 @@
+INSERT INTO userTable(username, password, role) VALUES('raul', '12345', 'ADMIN');
